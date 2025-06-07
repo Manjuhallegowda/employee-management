@@ -35,15 +35,8 @@ A full-stack web application for managing employee payroll operations with preci
 
 ## Screenshots
 
-> _Add screenshots or screen recordings of the app here (optional)_
+![Screenshot 2025-06-07 155644](https://github.com/user-attachments/assets/2896ff95-d42b-4def-9354-5afd5627eb04)
 
-## Folder Structure
-
-employee-management/
-├── client/         # React frontend
-├── server/         # Express backend
-├── LICENSE         # License file
-└── README.md
 
 ## Author
 
