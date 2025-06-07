@@ -42,7 +42,7 @@ A full-stack web application for managing employee payroll operations with preci
 
 M Manjunatha
 📧 manjuhallegowda@gmail.com
-🔗  • [Portfolio] (https://m-manjunatha.netlify.app/) • [LinkedIn] (https://www.linkedin.com/in/manjuhallegowda/)
+🔗  • [Portfolio](https://m-manjunatha.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/manjuhallegowda/)
 
 ## License
 
